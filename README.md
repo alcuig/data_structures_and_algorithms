@@ -1,5 +1,7 @@
 # data_structures_and_algorithms
 
+Commented : insertion_sort()
+
 | def insertion_sort (list):             |                                                                                                                                                                                              |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     for index in range(1, len(list)) : | #starts looping through "unsorted list" portion of array, which must start from 2nd element of list onwards                                                                                  |
